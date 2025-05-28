@@ -12,7 +12,7 @@
 ### Phase 2: Business Logic Implementation  
 - [x] **Step 4: Revenue & Pipeline Calculations** - Core funnel math and workload calculations
 - [x] **Step 5: Account Management Logic** - Meeting frequency and time allocation calculations
-- [ ] **Step 6: Strategic Activities Logic** - Strategic time allocation and distribution
+- [x] **Step 6: Strategic Activities Logic** - Strategic time allocation and distribution
 
 ### Phase 3: Interactive Interface
 - [ ] **Step 7: Basic Widgets Implementation** - Input widgets for core parameters
@@ -41,7 +41,7 @@
 ## Key Milestones
 
 - [x] **Foundation Complete** - Steps 1-3 finished, basic calculation framework ready
-- [ ] **Business Logic Complete** - Steps 4-6 finished, all calculations working correctly
+- [x] **Business Logic Complete** - Steps 4-6 finished, all calculations working correctly
 - [ ] **Interactive Interface Complete** - Steps 7-9 finished, full widget integration
 - [ ] **Final Deliverable Ready** - Steps 10-12 finished, complete professional solution
 
