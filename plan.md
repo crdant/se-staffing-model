@@ -15,15 +15,15 @@ Building a Jupyter notebook for Solutions Engineering workload modeling with int
 5. **Account Management Logic** - Meeting frequency and time allocation calculations
 6. **Strategic Activities Logic** - Strategic time allocation and distribution
 
-### Phase 3: Interactive Interface
-7. **Basic Widgets Implementation** - Input widgets for core parameters
-8. **Advanced Widgets & Validation** - Complex widgets with cross-parameter validation
-9. **Widget Integration & Updates** - Real-time calculation updates
+### Phase 3: Visualization & Dashboard
+7. **Core Visualizations** - Basic charts for utilization and capacity
+8. **Advanced Dashboard** - Professional dashboard with multiple chart types
+9. **Results Summary & Export** - Executive summary and export capabilities
 
-### Phase 4: Visualization & Dashboard
-10. **Core Visualizations** - Basic charts for utilization and capacity
-11. **Advanced Dashboard** - Professional dashboard with multiple chart types
-12. **Results Summary & Export** - Executive summary and export capabilities
+### Phase 4: Interactive Interface
+10. **Basic Widgets Implementation** - Input widgets for core parameters
+11. **Advanced Widgets & Validation** - Complex widgets with cross-parameter validation
+12. **Widget Integration & Updates** - Real-time calculation updates
 
 ## Detailed Step-by-Step Implementation
 
